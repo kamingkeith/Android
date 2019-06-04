@@ -1,3 +1,5 @@
+pip install scrapy
+
 scrapy shell
 
 fetch("http://www.aastocks.com/tc/stocks/news/aafn/popular-news")
